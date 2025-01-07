@@ -36,25 +36,3 @@ Features include:
 
 ---
 
-### 🏆 Achievements  
-- **Scholarship**: Ratanlal Kambarlal Patni Foundation (INR 40,000/year)  
-- **Mentorship Role**: Selected as a mentor for junior students, guiding them in communication, technical skills, and personal development.  
-- **Hackathon Participation**: Representing my team at the Smart India Hackathon.  
-
----
-
-### 📬 Let's Connect  
-- **📧 Email**: [ritikasharma@example.com](mailto:ritikasharma@example.com)  
-- **🔗 LinkedIn**: [linkedin.com/in/ritika-sharma](https://linkedin.com/in/ritika-sharma)  
-- **🐙 GitHub**: [github.com/yourusername](https://github.com/yourusername)  
-
----
-
-### ✨ Fun Facts  
-🔍 Curious explorer and learner of new technologies.  
-📚 Currently diving into machine learning and web development.  
-🌈 Believer in teamwork and innovation for creating meaningful change.  
-
----
-
-🌟 *Thanks for visiting my profile! Let’s collaborate and create something amazing together!* 😄
