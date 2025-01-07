@@ -32,7 +32,7 @@ I am a passionate and driven Computer Science student with a keen interest in **
 
 ## 🌟 Let's Connect!
 - 📧 **Email**: [rimijain858@gmail.com](mailto:rimijain858@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/ritika-jain](https://www.linkedin.com/in/ritika-jain)  
+- 🔗 **LinkedIn**: [linkedin.com/in/ritika-jain17](https://www.linkedin.com/in/ritika-jain17) 
 - 🐙 **GitHub**: [github.com/ritika-jain17](https://github.com/ritika-jain17)
 
 ---
