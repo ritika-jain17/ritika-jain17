@@ -1,38 +1,41 @@
-# 🌟 Ritika Jain
+# 👋 Hi, I'm Ritika Jain
 
-**LinkedIn** | **GitHub**  
-[LinkedIn Profile](https://linkedin.com/in/your-linkedin) | [GitHub Profile](https://github.com/yourusername)
+🎓 **Computer Science Student**  
+🌍 From Rehli, District Sagar, India | 📍 Currently at Samrat Ashok Technological Institute, Vidisha
 
----
-
-## Hello! 👋  
-I'm Ritika Jain, a B.Tech Computer Science student specializing in Artificial Intelligence and Data Science at Samrat Ashok Technological Institute, Vidisha. I am passionate about exploring technology, solving problems, and building innovative projects that make a difference.
+I am a passionate and driven Computer Science student with a keen interest in **AI, Data Science**, and **Web Development**. I'm always looking for new challenges to solve and ways to improve my skills. My goal is to leverage technology to make a positive impact.
 
 ---
 
-### 🚀 Skills & Technologies  
-- **💻 Programming**: C, C++, Python, Java, JavaScript  
-- **🎨 Frontend Development**: HTML, CSS, Tailwind CSS  
-- **📊 Data Science & Machine Learning**: Basics (exploring further)  
-- **🔧 Tools**: Visual Studio Code, Git, WordPress  
+## 🚀 Skills & Technologies
+### **Languages & Frameworks**
+- **Frontend**: HTML, CSS, JavaScript
+- **Programming**: Python, Java, C++
+  
+### **Data Science & Machine Learning**
+- Libraries: NumPy, Pandas 
+
+### **Tools & Platforms**
+- **Version Control**: Git, GitHub
+- **IDE & Code Editors**: Visual Studio Code, Jupyter Notebook
 
 ---
 
-### 💼 Projects  
-#### 🔹 **Sign Language Converter (Smart India Hackathon)**  
-🛠 A project focusing on bridging communication gaps for the deaf community.  
-Features include:  
-- Converting normal language to sign language and vice versa  
-- Educational resources for learning sign language  
-- Donation and shopping sections for affordability  
-**Tech Stack**: Frontend with JavaScript, exploring Machine Learning for implementation  
+## 📚 Education
 
-#### 🔹 **Flux Club Website** *(In Progress)*  
-🌟 Developing an innovative and dynamic website for my college club.  
-Features include:  
-- Slide-based Events, Projects, and Gallery sections  
-- Comprehensive archive of past activities and achievements  
-**Tech Stack**: HTML, CSS, JavaScript  
+- **B.Tech in Computer Science** with specialization in **BLOCK CHAIN**  
+  **Samrat Ashok Technological Institute**, Vidisha, India  
+  **Current Year**: 2nd Year  
+  **CGPA**: 8.3
 
 ---
+
+## 🌟 Let's Connect!
+- 📧 **Email**: [rimijain858@gmail.com](mailto:rimijain858@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/ritika-jain](https://www.linkedin.com/in/ritika-jain)  
+- 🐙 **GitHub**: [github.com/ritika-jain17](https://github.com/ritika-jain17)
+
+---
+
+Thank you for visiting my profile! Let's collaborate and build something amazing together. 😄
 
